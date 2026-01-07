@@ -1,0 +1,137 @@
+{
+  "example_user": {
+    "name": "Alex",
+    "created_date": "2024-11-01T10:00:00",
+    "last_active": "2024-11-24T15:30:00",
+    "total_questions": 87,
+    "total_correct": 71,
+    "total_incorrect": 16,
+    "best_streak": 9,
+    "current_streak": 4,
+    "total_time_seconds": 3600,
+    "perfect_quizzes": 2,
+    "coding_completed": 3,
+    "week_stats": {
+      "1": {
+        "attempted": 40,
+        "correct": 33
+      },
+      "2": {
+        "attempted": 27,
+        "correct": 24
+      },
+      "3": {
+        "attempted": 14,
+        "correct": 6
+      },
+      "4": {
+        "attempted": 6,
+        "correct": 5
+      },
+      "5": {
+        "attempted": 0,
+        "correct": 0
+      },
+      "6": {
+        "attempted": 0,
+        "correct": 0
+      },
+      "7": {
+        "attempted": 0,
+        "correct": 0
+      },
+      "8": {
+        "attempted": 0,
+        "correct": 0
+      },
+      "9": {
+        "attempted": 0,
+        "correct": 0
+      },
+      "10": {
+        "attempted": 0,
+        "correct": 0
+      }
+    },
+    "weeks_completed": [1, 2],
+    "incorrect_questions": [
+      "W3_MCQ_1234",
+      "W3_CodeOutput_5678",
+      "W4_FillBlank_9012"
+    ],
+    "mastered_questions": [
+      "W1_MCQ_1111",
+      "W1_TrueFalse_2222",
+      "W2_CodeOutput_3333"
+    ],
+    "study_days": [
+      "2024-11-20",
+      "2024-11-21",
+      "2024-11-22",
+      "2024-11-23",
+      "2024-11-24"
+    ],
+    "achievements": {
+      "🎯 First Steps": {
+        "earned": true,
+        "earned_date": "2024-11-20T10:15:00"
+      },
+      "🔥 Hot Streak": {
+        "earned": true,
+        "earned_date": "2024-11-20T11:30:00"
+      },
+      "⚡ Lightning Streak": {
+        "earned": true,
+        "earned_date": "2024-11-21T14:20:00"
+      },
+      "🌟 Perfect Week": {
+        "earned": false,
+        "earned_date": null
+      },
+      "📚 Scholar": {
+        "earned": true,
+        "earned_date": "2024-11-22T16:45:00"
+      },
+      "🎓 Master": {
+        "earned": false,
+        "earned_date": null
+      },
+      "🏆 Champion": {
+        "earned": false,
+        "earned_date": null
+      },
+      "💪 Dedicated": {
+        "earned": true,
+        "earned_date": "2024-11-24T15:30:00"
+      },
+      "🔨 Code Warrior": {
+        "earned": false,
+        "earned_date": null
+      },
+      "🚀 Speed Demon": {
+        "earned": false,
+        "earned_date": null
+      },
+      "🧠 Big Brain": {
+        "earned": false,
+        "earned_date": null
+      },
+      "📖 Bookworm": {
+        "earned": false,
+        "earned_date": null
+      },
+      "💯 Perfectionist": {
+        "earned": false,
+        "earned_date": null
+      },
+      "🎪 Jack of All Trades": {
+        "earned": false,
+        "earned_date": null
+      },
+      "⏰ Time Lord": {
+        "earned": false,
+        "earned_date": null
+      }
+    }
+  }
+}
